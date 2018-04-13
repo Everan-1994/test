@@ -1,2 +1,2 @@
 Hello World!
-PHP is the best language in the world! yes, I think so.
+I think PHP is the best language in the world!
